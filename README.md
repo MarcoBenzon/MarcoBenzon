@@ -1,35 +1,34 @@
-<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Riuseigi</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
+<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/interior-design-concept-illustration_13317064.htm#query=designer&position=4&from_view=search" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Marco Benzon</h1>
+<h3 align="center">Aspiring to be a full-stack Web Developer.</h3>
 
 
 
 
-- 🔭 I’m currently working on my capstone project 
-- 🌱 I’m currently learning HTML, CSS, CSS Frameworks, and  Javascript.
-- 👯 I’m looking to collaborate on with anyone who's interested learning and growing.
+- 🔭 I’m currently working UI/UX Designing
+- 🌱 I’m currently learning HTML, CSS, CSS Frameworks, and  Javascript. Also Framer and Canva
+- 👯 I’m looking to collaborate on with anyone who's interested learning and growing about UI/UX.
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about my progress in this journey
-- 📫 How to reach me: you can dm me at troyliamjarata@gmail.com
+- 📫 How to reach me: you can dm me at blanchebenzon@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I loved playing video games but stressed in choosing IT carreers
-
+- ⚡ Fun fact: I'm good at games but stuggling in coding.
 <p align="center">
     <a href="https://github.com/MarcoBenzon/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoBenzon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## ⌨ Languages and Tools:
+## ⌨ Languages/Designing and Tools:
 
 <p align="center"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
+    <a href="https://www.adobe.com/sea/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
     
 </p>
 
@@ -49,17 +48,3 @@
     
 </a>
 <a href="https://github.com/MarcoBenzon?tab=followers"><img src="https://img.shields.io/github/followers/MarcoBenzon?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-<!--
-**Riuseigi/Riuseigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
